@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\bin\Debug\frmBookManager.exe.config
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\bin\Debug\frmBookManager.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\bin\Debug\frmBookManager.pdb
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.frmBookManager.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai2\frmBookManager\frmBookManager\obj\Debug\frmBookManager.pdb

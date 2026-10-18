@@ -1,0 +1,12 @@
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\bin\Debug\frmHospitalMain.exe.config
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\bin\Debug\frmHospitalMain.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\bin\Debug\frmHospitalMain.pdb
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.frmDoctorSchedule.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.frmHospitalMain.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.frmPatientProfiles.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai3\frmHospitalMain\frmHospitalMain\obj\Debug\frmHospitalMain.pdb

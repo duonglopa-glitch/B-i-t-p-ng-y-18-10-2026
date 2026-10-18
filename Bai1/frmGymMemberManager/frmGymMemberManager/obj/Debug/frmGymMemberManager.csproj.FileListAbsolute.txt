@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\bin\Debug\frmGymMemberManager.exe.config
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\bin\Debug\frmGymMemberManager.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\bin\Debug\frmGymMemberManager.pdb
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.frmGymMemberManager.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai1\frmGymMemberManager\frmGymMemberManager\obj\Debug\frmGymMemberManager.pdb
