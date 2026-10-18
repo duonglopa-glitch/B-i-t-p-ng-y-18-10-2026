@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\bin\Debug\frmCryptoStockTicker.exe.config
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\bin\Debug\frmCryptoStockTicker.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\bin\Debug\frmCryptoStockTicker.pdb
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.frmCryptoStockTicker.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai5\frmCryptoStockTicker\frmCryptoStockTicker\obj\Debug\frmCryptoStockTicker.pdb

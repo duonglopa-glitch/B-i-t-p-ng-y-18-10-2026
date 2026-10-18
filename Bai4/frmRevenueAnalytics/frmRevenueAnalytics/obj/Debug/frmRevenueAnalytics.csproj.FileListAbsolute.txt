@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\bin\Debug\frmRevenueAnalytics.exe.config
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\bin\Debug\frmRevenueAnalytics.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\bin\Debug\frmRevenueAnalytics.pdb
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.frmRevenueAnalytics.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.exe
+C:\Users\LOQ\Downloads\Ngay18-10-2026\Bai4\frmRevenueAnalytics\frmRevenueAnalytics\obj\Debug\frmRevenueAnalytics.pdb
